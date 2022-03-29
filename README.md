@@ -42,7 +42,7 @@ python .\manage.py runserver
 
 3. open your browser and navigate to: http://127.0.0.1:8000/api/v1/
 4. Use the provided *example_excel_sheet.xlsx* for upload and processing
-5. Use "Raw data" to post columnts in the Summary view since DRF does not provide a lists component in the HTML form 
+5. Use "Raw data" to post columns in the Summary view since DRF does not provide a lists component in the HTML form 
 
 ## Notice
 
