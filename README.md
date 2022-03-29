@@ -41,7 +41,7 @@ python .\manage.py runserver
 ```
 
 3. open your browser and navigate to: http://127.0.0.1:8000/api/v1/
-4. Use the provided exmaple_excel_sheet.xlsx for upload and processing 
+4. Use the provided *example_excel_sheet.xlsx* for upload and processing 
 
 ## Notice
 
